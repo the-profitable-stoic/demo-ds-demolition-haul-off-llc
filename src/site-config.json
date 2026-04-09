@@ -1,0 +1,584 @@
+{
+  "business": {
+    "name": "DS Demolition & Haul Off, LLC",
+    "phone": "+19452406638",
+    "category": "demolition contractor",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-heritage-craft",
+      "categoryGroup": "roofing",
+      "name": "Heritage Craft",
+      "recipeFile": "roofing/heritage-craft.astro",
+      "colors": {
+        "primary": "#3D2E1F",
+        "primaryDark": "#251A10",
+        "primaryLight": "#D4C5B0",
+        "secondary": "#5C4A3A",
+        "accent": "#6B5335",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#5C4A3A",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "roofing/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Dallas Demolition Done Right",
+      "heroSubline": "From selective interior guts to complete building teardowns, we handle it all. Get a free, no-obligation quote today.",
+      "aboutTitle": "Demolition Experts Serving Dallas-Fort Worth",
+      "aboutText": [
+        "DS Demolition & Haul Off, LLC is a family-owned and operated demolition contractor serving the Dallas area. We started with a single truck and a commitment to honest, hard work. Today, we're a trusted name for residential and commercial demolition projects across the metroplex.",
+        "Our approach is simple: safety first, quality work, and clear communication. We understand that demolition can be disruptive, so we prioritize minimizing the impact on your property and neighborhood. We use the right equipment and techniques to get the job done efficiently and safely.",
+        "We're proud to be a part of the Dallas community. We believe in giving back and supporting local organizations. We're committed to responsible demolition practices, including recycling and proper disposal of materials."
+      ],
+      "valueProps": [
+        {
+          "title": "Safety Focused",
+          "description": "We prioritize safety on every job site, protecting our team, your property, and the environment."
+        },
+        {
+          "title": "Experienced Professionals",
+          "description": "Our team has the expertise to handle any demolition project, big or small, residential or commercial."
+        },
+        {
+          "title": "Competitive Pricing",
+          "description": "We offer fair and transparent pricing with no hidden fees. Get a free, detailed estimate today."
+        },
+        {
+          "title": "Licensed & Insured",
+          "description": "We are fully licensed and insured for your peace of mind. We meet all local and state regulations."
+        }
+      ],
+      "ctaHeadline": "Ready to Start Your Project?",
+      "ctaSubline": "Contact us today for a free consultation and estimate."
+    },
+    "services": [
+      {
+        "slug": "residential-demolition",
+        "name": "Residential Demolition",
+        "shortDescription": "Safe and efficient demolition services for Dallas homes.",
+        "description": "DS Demolition & Haul Off, LLC provides comprehensive residential demolition services in the Dallas area. Whether you're renovating a 1950s ranch in Lake Highlands or clearing a lot for new construction in Preston Hollow, we have the expertise to handle your project safely and efficiently.\n\nWe specialize in interior gutting, kitchen and bathroom demolition, garage removal, and complete house teardowns. We understand the unique challenges of working in established Dallas neighborhoods, including tight spaces and strict noise ordinances. Our team is trained to minimize disruption and maintain a clean work site.\n\nWe handle all aspects of the demolition process, from obtaining necessary permits to disconnecting utilities and safely removing debris. We prioritize responsible disposal and recycling whenever possible. Our goal is to provide a seamless and stress-free experience for our clients.",
+        "process": [
+          "Step 1: Site Assessment & Planning - We evaluate the project and create a detailed demolition plan.",
+          "Step 2: Permitting & Utility Disconnection - We handle all necessary permits and disconnect utilities safely.",
+          "Step 3: Demolition - We execute the demolition plan efficiently and safely, minimizing disruption.",
+          "Step 4: Debris Removal & Site Cleanup - We remove all debris and leave the site clean and ready for the next phase."
+        ],
+        "benefits": [
+          "Increased property value",
+          "Safe and efficient demolition",
+          "Reduced project timelines",
+          "Stress-free experience"
+        ],
+        "faq": [
+          {
+            "question": "Do I need a permit for residential demolition in Dallas?",
+            "answer": "Yes, in most cases, a permit is required for residential demolition. We handle the permit process for you, ensuring compliance with all local regulations."
+          },
+          {
+            "question": "How long does residential demolition take?",
+            "answer": "The timeline varies depending on the size and complexity of the project. A small interior demolition might take a day or two, while a complete house teardown could take a week or more. We provide a detailed timeline during the initial consultation."
+          },
+          {
+            "question": "What happens to the debris after demolition?",
+            "answer": "We prioritize responsible disposal and recycling. We work with local recycling centers to divert materials from landfills whenever possible. Non-recyclable debris is disposed of at licensed landfills."
+          }
+        ]
+      },
+      {
+        "slug": "commercial-demolition",
+        "name": "Commercial Demolition",
+        "shortDescription": "Expert commercial demolition services for businesses in Dallas.",
+        "description": "DS Demolition & Haul Off, LLC offers comprehensive commercial demolition services for businesses in Dallas and the surrounding areas. From office buildings in Uptown to retail spaces in Deep Ellum, we have the experience and equipment to handle any commercial demolition project.\n\nWe specialize in interior demolition, selective demolition, building teardowns, and site clearing. We understand the importance of minimizing disruption to your business operations and surrounding tenants. Our team works efficiently and safely to complete projects on time and within budget.\n\nWe handle all aspects of the commercial demolition process, including environmental assessments, asbestos abatement (if needed), and proper disposal of hazardous materials. We are committed to responsible demolition practices and adhere to all local and state regulations.",
+        "process": [
+          "Step 1: Site Survey & Planning - A thorough assessment to determine the best approach.",
+          "Step 2: Environmental Assessment - Checking for hazardous materials like asbestos.",
+          "Step 3: Permitting & Notifications - Ensuring compliance with city ordinances.",
+          "Step 4: Controlled Demolition - Executing the plan with precision and safety."
+        ],
+        "benefits": [
+          "Minimized business disruption",
+          "Safe and compliant demolition",
+          "Experienced and reliable team",
+          "Environmentally responsible practices"
+        ],
+        "faq": [
+          {
+            "question": "Do you handle asbestos abatement?",
+            "answer": "Yes, we are licensed and experienced in asbestos abatement. We follow all EPA and OSHA regulations to ensure safe removal and disposal of asbestos-containing materials."
+          },
+          {
+            "question": "What permits are required for commercial demolition in Dallas?",
+            "answer": "The required permits vary depending on the scope of the project. We handle all necessary permits and ensure compliance with city regulations."
+          },
+          {
+            "question": "How do you minimize disruption to surrounding businesses?",
+            "answer": "We work closely with our clients to develop a demolition plan that minimizes noise, dust, and traffic. We also coordinate with surrounding businesses to minimize disruption to their operations."
+          }
+        ]
+      },
+      {
+        "slug": "concrete-removal",
+        "name": "Concrete Removal",
+        "shortDescription": "Professional concrete removal services in Dallas, TX.",
+        "description": "DS Demolition & Haul Off, LLC provides expert concrete removal services for residential and commercial properties throughout Dallas. Whether you need to remove an old driveway, patio, foundation, or sidewalk, we have the equipment and expertise to get the job done quickly and efficiently.\n\nConcrete removal can be a challenging and labor-intensive task. Our team uses specialized equipment, including jackhammers, concrete saws, and skid steers, to break up and remove concrete safely and efficiently. We also handle the disposal of concrete debris in an environmentally responsible manner.\n\nWe understand the importance of minimizing disruption to your property and surrounding areas. Our team takes precautions to control dust and noise during the concrete removal process. We also ensure that the site is left clean and ready for the next phase of your project.",
+        "process": [
+          "Step 1: Site Preparation - Clearing the area and protecting surrounding surfaces.",
+          "Step 2: Concrete Cutting & Breaking - Using specialized equipment to break down the concrete.",
+          "Step 3: Debris Removal - Loading and hauling away the concrete debris.",
+          "Step 4: Site Cleanup - Ensuring a clean and level surface."
+        ],
+        "benefits": [
+          "Safe and efficient concrete removal",
+          "Reduced labor costs",
+          "Minimized disruption to your property",
+          "Environmentally responsible disposal"
+        ],
+        "faq": [
+          {
+            "question": "Can you remove reinforced concrete?",
+            "answer": "Yes, we have the equipment and expertise to remove reinforced concrete. We use specialized cutting tools to cut through the rebar and break up the concrete."
+          },
+          {
+            "question": "How much does concrete removal cost?",
+            "answer": "The cost of concrete removal varies depending on the size and thickness of the concrete, as well as the accessibility of the site. We provide free, no-obligation estimates."
+          },
+          {
+            "question": "What do you do with the concrete debris?",
+            "answer": "We recycle concrete debris whenever possible. We work with local recycling centers to crush the concrete and reuse it as aggregate."
+          }
+        ]
+      },
+      {
+        "slug": "interior-demolition",
+        "name": "Interior Demolition",
+        "shortDescription": "Dallas's premier interior demolition and gutting services.",
+        "description": "DS Demolition & Haul Off, LLC specializes in interior demolition services throughout Dallas. From gutting outdated kitchens in historic Munger Place bungalows to preparing office spaces in Uptown for renovation, we handle projects of all sizes with precision and care.\n\nOur team is experienced in removing walls, flooring, ceilings, and fixtures while minimizing dust and disruption. We understand the importance of protecting existing structures and utilities during the demolition process. We’re particularly careful when working in older Dallas homes with unique architectural details.\n\nWe prioritize safety and cleanliness, using dust control measures and proper ventilation to protect your health and property. We also handle the removal and disposal of all debris in an environmentally responsible manner.",
+        "process": [
+          "Step 1: Pre-Demolition Assessment: We evaluate the project scope and identify any potential hazards.",
+          "Step 2: Protection & Containment: We protect surrounding areas with plastic sheeting and dust barriers.",
+          "Step 3: Selective Demolition: We carefully remove designated materials and structures.",
+          "Step 4: Debris Removal & Cleanup: We haul away all debris and leave the space clean and ready for renovation."
+        ],
+        "benefits": [
+          "Precise and controlled demolition",
+          "Dust and debris containment",
+          "Protection of existing structures",
+          "Environmentally responsible disposal"
+        ],
+        "faq": [
+          {
+            "question": "How do you control dust during interior demolition?",
+            "answer": "We use a combination of techniques to control dust, including HEPA filtration vacuums, plastic sheeting to contain the work area, and regular misting of surfaces."
+          },
+          {
+            "question": "Can you remove load-bearing walls?",
+            "answer": "Removing load-bearing walls requires careful planning and structural support. We can assess the wall and, if necessary, work with a structural engineer to ensure the safety of the building."
+          },
+          {
+            "question": "How long does interior demolition take?",
+            "answer": "The timeline depends on the size and complexity of the project. A small bathroom demolition might take a day, while a complete interior gutting could take several days or weeks."
+          }
+        ]
+      },
+      {
+        "slug": "selective-demolition",
+        "name": "Selective Demolition",
+        "shortDescription": "Targeted demolition services, preserving what matters most.",
+        "description": "DS Demolition & Haul Off, LLC offers selective demolition services in Dallas, providing targeted removal of specific building components while preserving surrounding structures. This service is ideal for renovations, remodeling projects, and historical preservation efforts in areas like the Bishop Arts District or around the Dallas Arts District.\n\nWe carefully remove walls, flooring, fixtures, and other materials while minimizing damage to adjacent areas. Our team is skilled in using hand tools and specialized equipment to ensure precision and control. We understand the importance of preserving architectural details and historical elements during selective demolition projects.\n\nWe work closely with contractors, architects, and homeowners to develop a demolition plan that meets their specific needs. We prioritize safety and cleanliness, using dust control measures and proper ventilation to protect your health and property.",
+        "process": [
+          "Step 1: Detailed Planning & Marking: Identifying areas for removal and protection.",
+          "Step 2: Careful Removal: Using hand tools and specialized equipment for precise demolition.",
+          "Step 3: Debris Management: Removing debris while minimizing dust and disruption.",
+          "Step 4: Site Preparation: Preparing the area for the next phase of construction."
+        ],
+        "benefits": [
+          "Preservation of existing structures",
+          "Targeted and precise demolition",
+          "Reduced waste and environmental impact",
+          "Customized solutions for unique projects"
+        ],
+        "faq": [
+          {
+            "question": "What is selective demolition?",
+            "answer": "Selective demolition involves carefully removing specific building components while preserving surrounding structures. It is often used for renovations, remodeling projects, and historical preservation efforts."
+          },
+          {
+            "question": "How do you protect existing structures during selective demolition?",
+            "answer": "We use a variety of techniques to protect existing structures, including bracing, shoring, and protective coverings. Our team is trained to minimize damage and ensure the safety of the building."
+          },
+          {
+            "question": "What types of projects benefit from selective demolition?",
+            "answer": "Selective demolition is ideal for projects that require targeted removal of specific building components, such as kitchen and bathroom remodeling, historical preservation, and commercial renovations."
+          }
+        ]
+      },
+      {
+        "slug": "hauling-services",
+        "name": "Demolition Debris Hauling Services",
+        "shortDescription": "Fast and reliable debris hauling for Dallas demolition projects.",
+        "description": "DS Demolition & Haul Off, LLC provides comprehensive demolition debris hauling services in Dallas. We understand that removing debris quickly and efficiently is crucial to keeping your project on schedule. Whether you're clearing a construction site in Frisco or renovating a home in Plano, we have the trucks and equipment to handle all your debris hauling needs.\n\nOur team is experienced in hauling a wide range of demolition debris, including concrete, wood, metal, and drywall. We prioritize responsible disposal and recycling, working with local recycling centers to divert materials from landfills whenever possible. We also ensure that all debris is transported safely and legally.\n\nWe offer flexible scheduling and competitive pricing to meet your specific needs. Our goal is to provide a hassle-free debris hauling experience that allows you to focus on your core business.",
+        "process": [
+          "Step 1: Debris Assessment: Evaluating the type and volume of debris to be hauled.",
+          "Step 2: Container Delivery (if needed): Providing dumpsters or roll-off containers for debris collection.",
+          "Step 3: Efficient Loading: Loading debris safely and efficiently.",
+          "Step 4: Responsible Disposal: Transporting debris to licensed landfills or recycling centers."
+        ],
+        "benefits": [
+          "Fast and reliable debris removal",
+          "Responsible disposal and recycling",
+          "Flexible scheduling options",
+          "Competitive pricing"
+        ],
+        "faq": [
+          {
+            "question": "What types of debris do you haul?",
+            "answer": "We haul a wide range of demolition debris, including concrete, wood, metal, drywall, and roofing materials."
+          },
+          {
+            "question": "Do you offer dumpster rentals?",
+            "answer": "Yes, we offer dumpster rentals in a variety of sizes to meet your specific needs."
+          },
+          {
+            "question": "How do you ensure responsible disposal of debris?",
+            "answer": "We work with licensed landfills and recycling centers to ensure that all debris is disposed of in an environmentally responsible manner."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Fort Worth",
+        "slug": "fort-worth-tx",
+        "state": "TX",
+        "content": "DS Demolition & Haul Off, LLC is proud to serve the dynamic city of Fort Worth, Texas. From the historic Stockyards to the vibrant cultural district, we understand the diverse needs of Fort Worth residents and businesses. We're equipped to handle demolition projects of all sizes, from removing old sheds in the backyard to preparing sites for new construction downtown.\n\nWe have extensive experience working with the unique architectural styles found in Fort Worth, including the charming craftsman bungalows near downtown. We understand the importance of preserving the character of these neighborhoods while providing efficient and safe demolition services. Our team is dedicated to responsible waste disposal and recycling, helping to keep Fort Worth beautiful. We're prepared for the hot, humid summers and ensure projects are completed efficiently and safely.",
+        "localContext": "Fort Worth boasts a blend of historic charm and modern growth, with a significant number of craftsman bungalows near downtown and a climate characterized by hot, humid summers.",
+        "nearbyAreas": [
+          "Arlington",
+          "Dallas",
+          "Grand Prairie"
+        ]
+      },
+      {
+        "city": "Plano",
+        "slug": "plano-tx",
+        "state": "TX",
+        "content": "DS Demolition & Haul Off, LLC provides expert demolition and hauling services to Plano, Texas. We understand the specific needs of Plano's established subdivisions, many of which were built in the 1980s and 1990s. Whether you're renovating your home or preparing a site for new development, we offer reliable and efficient solutions.\n\nOur team is experienced in handling a variety of demolition projects, from removing outdated kitchens and bathrooms to clearing land for new construction. We prioritize safety and environmental responsibility, ensuring that all demolition debris is disposed of properly. We know the hot, humid summers can be challenging, so we work diligently to complete projects on time and within budget.",
+        "localContext": "Plano features many established subdivisions dating back to the 1980s and 1990s and experiences hot, humid summers.",
+        "nearbyAreas": [
+          "Frisco",
+          "Richardson",
+          "Allen"
+        ]
+      },
+      {
+        "city": "Frisco",
+        "slug": "frisco-tx",
+        "state": "TX",
+        "content": "DS Demolition & Haul Off, LLC is your trusted partner for demolition services in Frisco, Texas. Known for its rapid growth and newer construction, Frisco presents unique demolition challenges and opportunities. We are equipped to handle projects ranging from selective interior demolition to complete building removal.\n\nWe understand the importance of minimizing disruption to Frisco's growing community. Our team utilizes the latest equipment and techniques to ensure efficient and safe demolition. We are committed to responsible waste management and recycling, helping to preserve Frisco's environment. Given the hot, humid summers, we prioritize safety and efficient project management.",
+        "localContext": "Frisco is characterized by newer construction from the 2000s and 2020s and a climate with hot, humid summers.",
+        "nearbyAreas": [
+          "Plano",
+          "McKinney",
+          "The Colony"
+        ]
+      },
+      {
+        "city": "McKinney",
+        "slug": "mckinney-tx",
+        "state": "TX",
+        "content": "DS Demolition & Haul Off, LLC offers comprehensive demolition services in McKinney, Texas. With its blend of historic charm and modern development, McKinney presents diverse demolition needs. We are experienced in working with both historic homes in the downtown area and newer residential and commercial properties.\n\nWe understand the importance of preserving McKinney's historic character. Our team takes extra care when working on projects in the historic downtown area, ensuring that demolition is conducted safely and responsibly. We are committed to minimizing disruption to the community and protecting the environment. We also understand the challenges posed by the hot, humid summers and plan accordingly.",
+        "localContext": "McKinney is known for its historic downtown homes and experiences a climate with hot, humid summers.",
+        "nearbyAreas": [
+          "Frisco",
+          "Allen",
+          "Prosper"
+        ]
+      },
+      {
+        "city": "Arlington",
+        "slug": "arlington-tx",
+        "state": "TX",
+        "content": "DS Demolition & Haul Off, LLC is proud to serve the city of Arlington, Texas, providing reliable and professional demolition services. With its mix of residential neighborhoods and commercial developments, Arlington presents a variety of demolition needs. We are experienced in working with homes built in the 1960s and 1970s, as well as newer construction.\n\nWe understand the specific challenges of demolishing older homes, including potential asbestos and lead paint issues. Our team is fully trained and equipped to handle these materials safely and responsibly. We are committed to providing efficient and cost-effective demolition services while minimizing disruption to the community. We tackle the hot, humid summers with the best equipment and personnel.",
+        "localContext": "Arlington features a significant number of ranch-style homes built in the 1960s and 1970s and experiences hot, humid summers.",
+        "nearbyAreas": [
+          "Fort Worth",
+          "Grand Prairie",
+          "Mansfield"
+        ]
+      },
+      {
+        "city": "Dallas",
+        "slug": "dallas-tx",
+        "state": "TX",
+        "content": "DS Demolition & Haul Off, LLC is based in Dallas, TX, and offers complete demolition solutions. We are equipped to handle projects of any size, from residential to commercial. We are dedicated to providing safe, efficient, and environmentally responsible services. Our team is fully licensed and insured, and we adhere to all local and state regulations.\n\nDallas is a growing city with a diverse range of building types, and we are experienced in demolishing everything from small residential structures to large commercial buildings. We understand the unique challenges of working in a busy urban environment, and we take precautions to minimize disruption to the surrounding community. We also take into account the challenges of hot, humid summers to plan accordingly.",
+        "localContext": "Dallas is a major metropolitan city with a diverse architectural landscape and experiences hot, humid summers.",
+        "nearbyAreas": [
+          "Irving",
+          "Garland",
+          "Mesquite"
+        ]
+      },
+      {
+        "city": "Irving",
+        "slug": "irving-tx",
+        "state": "TX",
+        "content": "DS Demolition & Haul Off, LLC proudly serves Irving, TX, providing top-quality demolition and hauling services. We understand the diverse needs of Irving's residential and commercial sectors, offering solutions tailored to each project's specific requirements. From small-scale residential demolition to large commercial site clearing, we have the expertise and equipment to get the job done efficiently and safely.\n\nWe are committed to environmental responsibility and proper waste disposal. We work closely with our clients to ensure all demolition activities comply with local regulations and minimize environmental impact. We also understand the challenges presented by the hot, humid summers in Irving and plan accordingly to ensure projects are completed on time and within budget.",
+        "localContext": "Irving is a diverse city with a mix of residential and commercial properties and experiences hot, humid summers.",
+        "nearbyAreas": [
+          "Dallas",
+          "Grand Prairie",
+          "Euless"
+        ]
+      },
+      {
+        "city": "Garland",
+        "slug": "garland-tx",
+        "state": "TX",
+        "content": "DS Demolition & Haul Off, LLC is your trusted partner for demolition services in Garland, TX. With a mix of established neighborhoods and newer developments, Garland presents a variety of demolition needs. We are experienced in handling projects of all sizes, from removing old sheds and garages to demolishing entire buildings.\n\nWe are committed to providing safe, efficient, and cost-effective demolition services. Our team is fully trained and equipped to handle any demolition project, and we always prioritize safety and environmental responsibility. We are also aware of the challenges posed by the hot, humid summers in Garland and take appropriate measures to ensure projects are completed safely and efficiently.",
+        "localContext": "Garland features a mix of established and newer residential areas and experiences hot, humid summers.",
+        "nearbyAreas": [
+          "Dallas",
+          "Mesquite",
+          "Richardson"
+        ]
+      },
+      {
+        "city": "Allen",
+        "slug": "allen-tx",
+        "state": "TX",
+        "content": "DS Demolition & Haul Off, LLC is dedicated to providing Allen, TX, with reliable and professional demolition services. As Allen continues to grow and develop, the need for safe and efficient demolition services is essential. We cater to both residential and commercial clients, offering a comprehensive range of demolition solutions.\n\nOur team is experienced in handling various demolition projects, from interior renovations to complete structure removals. We prioritize safety, environmental responsibility, and adherence to all local regulations. We understand the importance of minimizing disruption to the Allen community while ensuring projects are completed on time and within budget. The hot, humid summers are no problem for our experienced crew.",
+        "localContext": "Allen is a growing suburban city with a mix of residential and commercial developments and experiences hot, humid summers.",
+        "nearbyAreas": [
+          "Plano",
+          "McKinney",
+          "Fairview"
+        ]
+      },
+      {
+        "city": "Richardson",
+        "slug": "richardson-tx",
+        "state": "TX",
+        "content": "DS Demolition & Haul Off, LLC offers professional demolition and hauling services to Richardson, TX. We recognize Richardson's blend of residential neighborhoods, commercial areas, and technology-focused businesses, and tailor our services to meet the diverse needs of this community. Whether it's selective interior demolition for a renovation project or a complete building removal, we have the expertise and equipment to handle it all.\n\nWe are committed to responsible waste management and recycling, ensuring that demolition debris is disposed of properly and in an environmentally friendly manner. Our team is dedicated to providing efficient and safe demolition services while minimizing disruption to the surrounding community. We are also prepared for the hot, humid summers and take necessary precautions to ensure project success.",
+        "localContext": "Richardson boasts a mix of residential, commercial, and technology-focused areas and experiences hot, humid summers.",
+        "nearbyAreas": [
+          "Plano",
+          "Garland",
+          "Dallas"
+        ]
+      },
+      {
+        "city": "Grand Prairie",
+        "slug": "grand-prairie-tx",
+        "state": "TX",
+        "content": "DS Demolition & Haul Off, LLC is proud to serve Grand Prairie, TX, with exceptional demolition and hauling services. With a blend of residential, commercial, and industrial areas, Grand Prairie presents a variety of demolition needs. We are experienced in handling projects of all sizes, from removing small structures to demolishing large commercial buildings.\n\nOur team is committed to providing safe, efficient, and environmentally responsible demolition services. We understand the unique challenges of working in a diverse community and take precautions to minimize disruption to the surrounding area. We are fully licensed and insured, and we adhere to all local and state regulations. The hot, humid summers in Grand Prairie are not a problem for our experienced demolition crews.",
+        "localContext": "Grand Prairie features a mix of residential, commercial, and industrial areas and experiences hot, humid summers.",
+        "nearbyAreas": [
+          "Arlington",
+          "Dallas",
+          "Irving"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "service": "Residential Demolition",
+        "text": "DS Demolition did an excellent job tearing down our old garage. They were quick, efficient, and cleaned up everything perfectly. Highly recommend their services!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "Robert K.",
+        "rating": 4,
+        "service": "Concrete Removal",
+        "text": "These guys removed an old concrete patio in my backyard. They were professional and careful not to damage the surrounding landscaping. Good service at a fair price.",
+        "date": "2025-02-20"
+      },
+      {
+        "name": "Susan L.",
+        "rating": 5,
+        "service": "Interior Demolition",
+        "text": "DS Demolition gutted our kitchen before our remodel. They were very respectful of our home and did a great job containing the dust. The crew was professional and courteous.",
+        "date": "2024-12-01"
+      },
+      {
+        "name": "David M.",
+        "rating": 5,
+        "service": "Commercial Demolition",
+        "text": "We hired DS Demolition to remove some interior walls in our office space. They completed the project quickly and efficiently, with minimal disruption to our business operations. Great communication throughout the process.",
+        "date": "2024-11-10"
+      },
+      {
+        "name": "Jennifer P.",
+        "rating": 5,
+        "service": "Hauling Services",
+        "text": "I needed a large amount of demolition debris hauled away after a DIY project. DS Demolition provided a prompt and reliable service. Their pricing was very competitive.",
+        "date": "2024-10-05"
+      },
+      {
+        "name": "Michael S.",
+        "rating": 4,
+        "service": "Selective Demolition",
+        "text": "The team at DS Demolition did a fantastic job with the selective demolition of a wall in my home. They were very careful not to damage the surrounding areas and cleaned up thoroughly afterward. I would definitely use them again.",
+        "date": "2024-09-12"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Dallas Demolition | DS Demolition & Haul Off",
+        "description": "Expert demolition services in Dallas, TX. Residential, commercial, concrete removal, and more. Free estimates. Call +19452406638"
+      },
+      "about": {
+        "title": "About Us | DS Demolition & Haul Off, LLC",
+        "description": "Learn about DS Demolition & Haul Off, LLC, a trusted demolition contractor serving Dallas-Fort Worth."
+      },
+      "services": {
+        "title": "Demolition Services | DS Demolition & Haul Off",
+        "description": "Comprehensive demolition services in Dallas: residential, commercial, concrete removal, interior demolition, and more."
+      },
+      "contact": {
+        "title": "Contact Us | DS Demolition & Haul Off",
+        "description": "Contact DS Demolition & Haul Off for a free estimate on your demolition project in Dallas. Call +19452406638."
+      },
+      "reviews": {
+        "title": "Customer Reviews | DS Demolition & Haul Off",
+        "description": "Read reviews from satisfied customers of DS Demolition & Haul Off in Dallas, TX."
+      },
+      "service-areas": {
+        "title": "Service Areas | DS Demolition & Haul Off",
+        "description": "DS Demolition & Haul Off provides demolition services throughout the Dallas-Fort Worth metroplex."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "residential-demolition": "/images/service-residential-demolition.webp",
+      "commercial-demolition": "/images/service-commercial-demolition.webp",
+      "concrete-removal": "/images/service-concrete-removal.webp",
+      "interior-demolition": "/images/service-interior-demolition.webp",
+      "selective-demolition": "/images/service-selective-demolition.webp",
+      "hauling-services": "/images/service-hauling-services.webp"
+    },
+    "servicesResponsive": {
+      "residential-demolition": {
+        "src": "/images/service-residential-demolition.webp",
+        "srcset": "/images/service-residential-demolition-400w.webp 400w, /images/service-residential-demolition-800w.webp 800w, /images/service-residential-demolition-1200w.webp 1200w, /images/service-residential-demolition.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "commercial-demolition": {
+        "src": "/images/service-commercial-demolition.webp",
+        "srcset": "/images/service-commercial-demolition-400w.webp 400w, /images/service-commercial-demolition-800w.webp 800w, /images/service-commercial-demolition-1200w.webp 1200w, /images/service-commercial-demolition.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "concrete-removal": {
+        "src": "/images/service-concrete-removal.webp",
+        "srcset": "/images/service-concrete-removal-400w.webp 400w, /images/service-concrete-removal-800w.webp 800w, /images/service-concrete-removal-1200w.webp 1200w, /images/service-concrete-removal.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "interior-demolition": {
+        "src": "/images/service-interior-demolition.webp",
+        "srcset": "/images/service-interior-demolition-400w.webp 400w, /images/service-interior-demolition-800w.webp 800w, /images/service-interior-demolition-1200w.webp 1200w, /images/service-interior-demolition.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "selective-demolition": {
+        "src": "/images/service-selective-demolition.webp",
+        "srcset": "/images/service-selective-demolition-400w.webp 400w, /images/service-selective-demolition-800w.webp 800w, /images/service-selective-demolition-1200w.webp 1200w, /images/service-selective-demolition.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "hauling-services": {
+        "src": "/images/service-hauling-services.webp",
+        "srcset": "/images/service-hauling-services-400w.webp 400w, /images/service-hauling-services-800w.webp 800w, /images/service-hauling-services-1200w.webp 1200w, /images/service-hauling-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
